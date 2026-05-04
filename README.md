@@ -19,23 +19,23 @@ Note: If you are using a KDE Plasma distro you do not need to extract and place 
 4. In Settings, navigate to Bluetooth & devices > Mouse, then click additional mouse settings.
 5. Choose the `Pointers` tab, click on the Normal Select cursor, then browse, you will have to set each cursor manually, and I have a list of what each cursor is below (each of my cursors will have a suffix appended like `SC_T_G` for Terran Green, but the prefixes are what you are looking for):
 
-Normal Select - aero_arrow
-Help Select - aero_helpsel
-working In Background - aero_working
-Busy - aero_busy
-Precision Select - cross
-Text Select - beam
-Handwriting - aero_pen
-Unavailable - aeo_unavail
-Vertical Resize - aero_ns
-Horizontal Resize - aero_ew
-Diagonal Resize 1 - aero_nesw
-Diagonal Resize 2 - aero_nwse
-Move - aero_move
-Alternate Select - aero_up
-Link Select - aero_link
-Location Select - Not available (aero__link)
-Person Select - Not available (aero__link)
+- Normal Select - aero_arrow
+- Help Select - aero_helpsel
+- working In Background - aero_working
+- Busy - aero_busy
+- Precision Select - cross
+- Text Select - beam
+- Handwriting - aero_pen
+- Unavailable - aeo_unavail
+- Vertical Resize - aero_ns
+- Horizontal Resize - aero_ew
+- Diagonal Resize 1 - aero_nesw
+- Diagonal Resize 2 - aero_nwse
+- Move - aero_move
+- Alternate Select - aero_up
+- Link Select - aero_link
+- Location Select - Not available (aero__link)
+- Person Select - Not available (aero__link)
 
 6. I recommend saving the scheme as a new one such as `SC Terran Green` so you can return to your original pointer settings later if desired.
 
