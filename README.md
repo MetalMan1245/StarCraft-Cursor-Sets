@@ -5,7 +5,7 @@ An implementation of the StarCraft 2 Cursors for use in Linux desktops, several 
 
 1. Download which sets you would like to use, or all.
 2. Extract.
-3. Place cursors in your `~/.icons` directory such that it shows `~.icons/SC_Cursors_Terran_Blue`
+3. Place cursors in your `~/.icons` directory such that it shows `~/.icons/SC_Cursors_Terran_Blue`
 4. Use your distribution's settings to set this cursor as your set.
 
 # License
