@@ -5,5 +5,5 @@ Name=SC Cursot Set Installer
 Comment=Install, update, or uninstall SC Cursor Sets
 Icon=system-software-install
 Terminal=true
-Exec=bash -c 'mkdir -p "$HOME/.local/bin"; curl -fsSL https://raw.githubusercontent.com/MetalMan1245/StarCraft-Cursor-Sets/main/SC_Cursors-install_remote.sh -o "$HOME/.local/bin/SC_Cursors-install_remote.sh" && chmod +x "$HOME/.local/bin/SC_Cursors-install_remote.sh" && "$HOME/.local/bin/SC_Cursors-install_remote.sh"; echo; read -p "Press Enter to close..."'
+Exec=bash -c 'mkdir -p "$HOME/.local/bin"; curl -fsSL https://raw.githubusercontent.com/MetalMan1245/StarCraft-Cursor-Sets/refs/heads/main/SC_Cursors-install_remote.sh -o "$HOME/.local/bin/SC_Cursors-install_remote.sh" && chmod +x "$HOME/.local/bin/SC_Cursors-install_remote.sh" && "$HOME/.local/bin/SC_Cursors-install_remote.sh"; echo; read -p "Press Enter to close..."'
 Categories=Utility;
