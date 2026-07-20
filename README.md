@@ -1,7 +1,7 @@
 # StarCraft Cursor Sets
 An implementation of the StarCraft 2 Cursors for use in Linux and Windows desktops, several colors available as well as semi-custom remixes and slight artistic liberties taken.
 
-# Installation
+# Manual Installation
 
 - Linux
 1. Download `SC_Cursors_Linux.tar.gz` from the Releases page.
@@ -43,7 +43,7 @@ Note: The Windows install is far more involved than the Linux one, I know this i
 
 # Upcoming
 
-Currently Terran Green, Blue, and Red are included.  I have the assets and means to produce sets for Protoss, Zerg, and SC1, those are all planned.  In addition, I have a very quick workflow for producing additional Terran recolors, and once the alternative race and game sets are created I will see about doing alternate colors for those as well.
+Currently Terran Green, Blue, Red, and Protoss are included.  I have the assets and means to produce sets for Zerg, and a few more Terran recolors.  I don't plan on releasing Zerg and Protoss in multiple colors since even in the game those cursors default to Terran ones on difference contexts.
 
 # License
 
