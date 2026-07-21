@@ -39,11 +39,15 @@ Note: If you are using a KDE Plasma distro you do not need to extract and place 
 
 6. I recommend saving the scheme as a new one such as `SC Terran Green` so you can return to your original pointer settings later if desired.
 
-Note: The Windows install is far more involved than the Linux one, I know this is probably scriptable to not be so manual, but I no longer have an active Windows install, only a VM, and my primary focus is on Linux development, if you would like to develop a script or even just a more streamlined way to do this, feel free to contact me and I will include it in this repo, or fork this and make your own if you have the skills, I am open to Pull Requests.
+Note: The Windows install is far more involved than the Linux one, especially since the Linux version has an easy installer.  I know it is possible to create an easy installer for Windows, but I am not particularly interested in developing for Windows.  If you would like to develop a script or even just a more streamlined way to do this, feel free to contact me and I will include it in this repo, or fork this and make your own if you have the skills, I am open to Pull Requests.
 
 # Upcoming
 
 Currently Terran Green, Blue, Red, and Protoss are included.  I have the assets and means to produce sets for Zerg, and a few more Terran recolors.  I don't plan on releasing Zerg and Protoss in multiple colors since even in the game those cursors default to Terran ones on difference contexts.
+
+# Notes
+
+This repo contains not only the x11 cursor files for a Linux based system to use StarCraft 2 cursors, but also .cur (and .ani) files for Windows to do so as well.  There is also all of my materials I used to do so, the original dds textures pulled directly from the game, the png converted versions, .conf files used to create Linux x11 files, and the xcf files I used in GIMP to do so.
 
 # License
 
