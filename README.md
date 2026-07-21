@@ -43,11 +43,13 @@ Note: The Windows install is far more involved than the Linux one, especially si
 
 # Upcoming
 
-Currently Terran Green, Blue, Red, and Protoss are included.  I have the assets and means to produce sets for Zerg, and a few more Terran recolors.  I don't plan on releasing Zerg and Protoss in multiple colors since even in the game those cursors default to Terran ones on difference contexts.
+Currently Terran Green, Blue, Red, Yellow, Purple, Zerg Purple and Protoss Daelam are included.  I have spirations to do multiple colors for Zerg and Protoss but they're quite a bit more difficult to work with than Terran.  And even in the game those cursors default to Terran ones on different contexts.
 
 # Notes
 
 This repo contains not only the x11 cursor files for a Linux based system to use StarCraft 2 cursors, but also .cur (and .ani) files for Windows to do so as well.  There is also all of my materials I used to do so, the original dds textures pulled directly from the game, the png converted versions, .conf files used to create Linux x11 files, and the xcf files I used in GIMP to do so.
+
+Also included is the clickgen_cross.py script that I used to easily convert batches of png and .conf files into cursors for both Linux and Windows.  Clickgen is required `https://github.com/ful1e5/clickgen`.  WARNING:  The code contained in all scripts was partially or entirely AI generated, you have been warned.  No AI tools were used for the artistic portion of the process whatsoever.
 
 # License
 
