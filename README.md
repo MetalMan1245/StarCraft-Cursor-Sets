@@ -10,7 +10,7 @@ An implementation of the StarCraft 2 Cursors for use in Linux and Windows deskto
 4. Place cursors in your `~/.icons` directory such that it shows `~/.icons/SC_Cursors_Terran_Blue`
 5. Use your distribution's settings to set this cursor as your set.
 
-Note: If you are using the KDE Plasma desktop environment you do not need to extract and place files, you can navigate to Colors & Themes > Cursors in System Settings, and `Install from File...` then import the `.tar.gz` file you would like directly.
+Note: If you are using the KDE Plasma desktop environment you do not need to extract and place files, you can navigate to Colors & Themes > Cursors in System Settings, and `Install from File...` then import the `.tar.gz` file you would like directly.  You can also download them directly from the KDE Store dialog in the Pointers tab under Colors & Themes of your System Settings.
 
 - Windows
 
@@ -30,8 +30,8 @@ Note: Windows cursors are significantly less tested than the Linux versions, and
 - Text Select - xterm
 - Handwriting - x-cursor
 - Unavailable - cross
-- Vertical Resize - sb_h_double_arrow
-- Horizontal Resize - sb_v_double_arrow
+- Vertical Resize - sb_v_double_arrow
+- Horizontal Resize - sb_h_double_arrow
 - Diagonal Resize 1 - nesw-resize
 - Diagonal Resize 2 - nwse-resize
 - Move - size-all
